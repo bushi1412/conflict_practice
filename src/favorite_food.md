@@ -1,3 +1,3 @@
 # favorite food
 
-apple $ 焼き芋
+apple & わらび餅
